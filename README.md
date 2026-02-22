@@ -29,7 +29,7 @@ My career path is a little unconventional (Kinesiology → Systems Engineering �
 
 **Languages & Frameworks**
 ```
-JavaScript  ·  Node.js  ·  React Native  ·  T-SQL  ·  Google BigQuery
+JavaScript  ·  Node.js  ·  React Native  ·  T-SQL  ·  Google BigQuery  ·  Vite  ·  React
 ```
 
 **Platforms & Tools**
