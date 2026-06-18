@@ -49,8 +49,6 @@ iOS Development  ·  API Design  ·  ETL Pipelines  ·  Data Visualization  ·  
 | Project | Description | Tech |
 |---|---|---|
 | [🖥️ raspPI-API-server](https://github.com/onparr-24/raspPI-API-server) | REST API running on my home network via Raspberry Pi | Node.js |
-| [📈 FireTracker](https://github.com/onparr-24/FireTracker) | Desktop app for tracking progress toward financial independence | Electron · JavaScript |
-| [🧪 AutomatedTester](https://github.com/onparr-24/AutomatedTester) | Automated testing utility | JavaScript |
 
 ---
 
