@@ -49,6 +49,8 @@ iOS Development  ·  API Design  ·  ETL Pipelines  ·  Data Visualization  ·  
 | Project | Description | Tech |
 |---|---|---|
 | [🖥️ raspPI-API-server](https://github.com/onparr-24/raspPI-API-server) | REST API running on my home network via Raspberry Pi | Node.js |
+| [🖥️ LocalAIServer](https://github.com/onparr-24/LocalAIServer) | A self-hosted, GPU-accelerated AI stack running entirely on a single machine via Docker Compose. |
+
 
 ---
 
